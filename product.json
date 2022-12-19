@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "iphone",
+        "price" :"1154",
+        "featured" :"true",
+        "company": "apple"
+    },
+    {
+        "name" : "tablet",
+        "price" :"154",
+        "featured" :"true",
+        "company": "samsung"
+    },
+    {
+        "name" : "redmi tv",
+        "price" :"1154",
+        "featured" :"true",
+        "company": "mi"
+    },
+     {
+        "name" : "nectband",
+        "price" :"15",
+        "featured" :"true",
+        "company": "Oneplus"
+    }
+]
